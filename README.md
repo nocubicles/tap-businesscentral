@@ -2,4 +2,4 @@
 
 ## How to use this tap:
 
-~/.virtualenvs/tap-businesscentral/bin/tap-businesscentral --config config.json --catalog properties.json
+[Read from my blog](https://www.integrated.ee/posts/singerio-business-central-tap/)
